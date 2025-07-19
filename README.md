@@ -8,7 +8,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
 
--  **23 y/o developer** from Algeria,Guelma  
+-  **23 y/o developer** from Algeria  
 -  Building bots, infra tools, and backend systems  
 -  Developer of [Africa City RolePlay](https://discord.gg/CYSPrS4G96) – Best Server RolePlay High Quality 
 -  Self-taught in C++, Node.js, Linux, TypeScript, MySQL  
